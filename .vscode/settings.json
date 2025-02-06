@@ -16,8 +16,16 @@
    "workbench.colorTheme": "Visual Studio Dark",
    "terminal.integrated.gpuAcceleration": "canvas",
    "cSpell.words": [
+      "cachetools",
+      "certifi",
+      "cffi",
       "CREDS",
+      "gspread",
+      "idna",
+      "pyasn",
       "pycache",
+      "pycparser",
+      "urllib",
       "venv"
    ],
 }
