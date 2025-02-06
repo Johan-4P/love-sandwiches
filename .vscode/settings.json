@@ -13,12 +13,13 @@
       "**/CVS": true
    },
    "files.autoSave": "off",
-   "workbench.colorTheme": "Visual Studio Dark",
+   "workbench.colorTheme": "JellyFish",
    "terminal.integrated.gpuAcceleration": "canvas",
    "cSpell.words": [
       "cachetools",
       "certifi",
       "cffi",
+      "convertedinto",
       "CREDS",
       "gspread",
       "idna",
