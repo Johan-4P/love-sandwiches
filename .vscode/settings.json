@@ -19,6 +19,7 @@
       "cachetools",
       "certifi",
       "cffi",
+      "collumns",
       "convertedinto",
       "CREDS",
       "gspread",
