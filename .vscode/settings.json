@@ -26,6 +26,7 @@
       "pyasn",
       "pycache",
       "pycparser",
+      "surplis",
       "urllib",
       "venv"
    ],
